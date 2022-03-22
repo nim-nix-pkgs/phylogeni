@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-phylogeni-main.flake = false;
+  inputs.src-phylogeni-main.ref   = "refs/heads/main";
   inputs.src-phylogeni-main.owner = "kerrycobb";
-  inputs.src-phylogeni-main.ref   = "main";
   inputs.src-phylogeni-main.repo  = "PhylogeNi";
   inputs.src-phylogeni-main.type  = "github";
   
