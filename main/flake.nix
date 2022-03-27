@@ -11,6 +11,7 @@
   inputs.src-phylogeni-main.ref   = "refs/heads/main";
   inputs.src-phylogeni-main.owner = "kerrycobb";
   inputs.src-phylogeni-main.repo  = "PhylogeNi";
+  inputs.src-phylogeni-main.dir   = "";
   inputs.src-phylogeni-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
