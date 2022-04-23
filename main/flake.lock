@@ -42,11 +42,11 @@
     "src-phylogeni-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1625367908,
-        "narHash": "sha256-y1BAn/JU+8xeRriSQYWWs/yWnwqWkyNZL2aX7TNVFiQ=",
+        "lastModified": 1648850209,
+        "narHash": "sha256-2OuGAcSCiZHtpqeW6yE+Gv3FPvDL29sm7pwMCmX1J8M=",
         "owner": "kerrycobb",
         "repo": "PhylogeNi",
-        "rev": "c8c7eea1c3de30a74ccc753851e1b7f898b47562",
+        "rev": "637ea7a121501f018391508713a49194bbdeca0c",
         "type": "github"
       },
       "original": {
