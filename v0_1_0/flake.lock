@@ -39,22 +39,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-phylogeni-main": "src-phylogeni-main"
+        "src-phylogeni-v0_1_0": "src-phylogeni-v0_1_0"
       }
     },
-    "src-phylogeni-main": {
+    "src-phylogeni-v0_1_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1665758990,
-        "narHash": "sha256-RnDJKN+e79CM3zwkP0rOJE/hOFX/2Vp/4Erwyt5A6sw=",
+        "lastModified": 1665607893,
+        "narHash": "sha256-+X6V0vtD9gcmo3gembfFFR4kjMfcyq7TVz8yVnY40W0=",
         "owner": "kerrycobb",
         "repo": "PhylogeNi",
-        "rev": "2803d67f43ca66849bf9745f353b2dc41f3ffba4",
+        "rev": "36327eafcd1946c029a9aaa0ceae467efeeff747",
         "type": "github"
       },
       "original": {
         "owner": "kerrycobb",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v0.1.0",
         "repo": "PhylogeNi",
         "type": "github"
       }
