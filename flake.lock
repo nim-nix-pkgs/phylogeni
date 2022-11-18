@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1667334727,
-        "narHash": "sha256-DyksToQcqbGm9Wrkx+TMAY7TXiO6XhXFrDNf4iZkJ2s=",
+        "lastModified": 1668748985,
+        "narHash": "sha256-b5zDkhHNmEKUByGSdsc8vHUlvDw5MFeXcm3CgwPmlyM=",
         "owner": "nim-nix-pkgs",
         "repo": "phylogeni",
-        "rev": "061015fc4237bcb55aef266b3f6760c9784ba2e1",
+        "rev": "08114928e276355ce1a5008808c1538cb4adaab6",
         "type": "github"
       },
       "original": {
@@ -239,11 +239,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1667334727,
-        "narHash": "sha256-DyksToQcqbGm9Wrkx+TMAY7TXiO6XhXFrDNf4iZkJ2s=",
+        "lastModified": 1668748985,
+        "narHash": "sha256-b5zDkhHNmEKUByGSdsc8vHUlvDw5MFeXcm3CgwPmlyM=",
         "owner": "nim-nix-pkgs",
         "repo": "phylogeni",
-        "rev": "061015fc4237bcb55aef266b3f6760c9784ba2e1",
+        "rev": "08114928e276355ce1a5008808c1538cb4adaab6",
         "type": "github"
       },
       "original": {
